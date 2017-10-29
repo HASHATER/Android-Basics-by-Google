@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Musical App</string>
+    <string name="home">Home</string>
+    <string name="home_text">Home Lists two groups, played recently and newly added songs, clicking on a song starts playing it</string>
+    <string name="my_library_text">My Library Lists all albums (folders that has mp3 files) found in the device, clicking on a folder lists all songs found in that folder and clicking on a song starts playing it </string>
+    <string name="now_playing_text">Now playing shows information about the song (artist name, name of the album ,year , and the name of the folder saved in) and has playControls </string>
+    <string name="search_text">Search activity contains editText for the search key to be typed, typing text in the editText lists the Results found, clicking on a songs starts playing it</string>
+    <string name="help_text">Has instructions on how to use the application</string>
+    <string name="help">Help</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="search">Search</string>
+    <string name="my_library">My Library</string>
+</resources>

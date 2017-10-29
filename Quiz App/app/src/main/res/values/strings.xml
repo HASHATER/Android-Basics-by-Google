@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="instructions">Choose the correct Answer</string>
+    <string name="firstQuestion">What is the name of the German airline?</string>
+    <string name="optionOne">OpenSkies</string>
+    <string name="optionTwo">Lufthansa</string><!--TRUE-->
+    <string name="secondQuestion">How long is the Great Wall of China?</string>
+    <string name="optionThree">7000 miles</string>
+    <string name="optionFour">4000 miles</string><!--TRUE-->
+    <string name="thirdQuestion">Who invented Ferrari?</string>
+    <string name="optionFive">Enzo Ferrari</string><!--TRUE-->
+    <string name="optionSix"> Gottlieb Daimler</string>
+    <string name="fourthQuestion">In what year did princess diana die?</string>
+    <string name="optionSeven">In the year 1993</string>
+    <string name="optionEight">	In the year 1997</string><!--TRUE-->
+    <string name="fifthQuestion">What is the most famous university of Paris?</string>
+    <string name="optionNine">Cologne</string>
+    <string name="optionTen">Sorbonne</string><!--TRUE-->
+    <string name="sixthQuestion">Which animal is on the golden Flemish flag?</string>
+    <string name="optionEleven">Frog</string>
+    <string name="optionTwelve">Lion</string><!--TRUE-->
+    <string name="submit">submit</string>
+    <string name="congratsText">Congratulations, all answers are correct </string>
+    <string name="seventhQuestion">Translate Thanks to arabic </string>
+    <string name="your_answer">Type in english letters</string>
+    <string name="eighthQuestion">Am I awesome?</string>
+    <string name="optionThirteen">Yessss :)</string>
+    <string name="optionFourteen">Definitely, no doubt</string>
+</resources>

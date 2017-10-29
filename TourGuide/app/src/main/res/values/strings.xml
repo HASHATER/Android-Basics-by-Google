@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="attraction_Kyrenia_Harbour">Kyrenia Harbour</string>
+    <string name="attraction_location_Kyrenia_Harbour">Küpdemir Sk, Girne</string>
+    <string name="attraction_Kyrenia_Castle">Kyrenia Castle</string>
+    <string name="attraction_Alagadi_Turtle_Beach">Alagadi Turtle Beach</string>
+    <string name="attraction_location_Turtle_Beach">Alagadi Turtle Beach, Gözübüyük</string>
+    <string name="attraction_Bellapais_Monastery">Bellapais Monastery</string>
+    <string name="attraction_location_Bellapais_Monastery">Bellapais Abbey, Beylerbeyi</string>
+
+    <string name="casinos_Salamis_Bay_Conti">Salamis Bay Conti</string>
+    <string name="casinos_location_Salamis_Bay_Conti">Girne Denizkizi Hotel</string>
+    <string name="casinos_Palm_Beach_Hotel_Casino">Palm Beach Hotel and Casino</string>
+    <string name="casinos_location_Palm_Beach_Hotel_Casino">ARKIN PALM BEACH HOTEL</string>
+    <string name="casinos_Denizkizi_Casino">Denizkizi Casino</string>
+    <string name="casinos_location_Denizkizi_Casino">Girne Denizkizi Hotel</string>
+    <string name="casinos_Jasmine_Court_Casino">Jasmine Court Casino</string>
+    <string name="casinos_location_Jasmine_Court_Casino">Naci Talat Caddesi, Yasemin Sok., Girne / KKTC</string>
+
+    <string name="restaurants_Burgys">Burgys</string>
+    <string name="restaurants_location_Burgys">Dogu Akdeniz Universitesi Rektorluk Yani</string>
+    <string name="restaurants_D_and_B_Caf">D and B Caf</string>
+    <string name="restaurants_location_D_and_B_Caf">Namik Kemal Meydani No 14, Kale ici</string>
+    <string name="restaurants_GUIDOS">GUIDOS</string>
+    <string name="restaurants_location_GUIDOS">MAIN LAPTA ROAD ALSANCAK</string>
+    <string name="restaurants_Virage_Take_Away">Virage Take Away</string>
+    <string name="restaurants_location_Virage_Take_Away">Ziya Rızkı Street, opposite the Bristol Hotel</string>
+
+    <string name="museums_The_Mevlevi_Tekke_Museum">The Mevlevi Tekke Museum</string>
+    <string name="museums_location_The_Mevlevi_Tekke_Museum">Girne Cd, Lefkoşa</string>
+
+    <string name="museums_Girne_Kalesi">Girne Kalesi</string>
+    <string name="museums_location_Girne_Kalesi">Küpdemir Sk, Girne</string>
+
+    <string name="museums_Shipwreck_Museum">Shipwreck Museum</string>
+    <string name="museums_location_Shipwreck_Museum">Küpdemir Sk, Girne</string>
+
+    <string name="museums_St_Barnabas_Monastery_and_Icon_Museum">St. Barnabas Monastery and Icon Museum</string>
+    <string name="museums_location_St_Barnabas_Monastery_and_Icon_Museum">Salamis-Famagusta Road, Famagusta, Cyprus</string>
+
+</resources>
